@@ -1,4 +1,0 @@
-Allergies
-NULL
-NULL
-NULL
